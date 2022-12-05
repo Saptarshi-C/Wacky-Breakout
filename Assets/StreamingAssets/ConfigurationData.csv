@@ -1,0 +1,2 @@
+PaddleMoveUnitsPerSecond,BallImpulseForce,BallLifeSeconds,MinSpawnSeconds,MaxSpawnSeconds,BallsPerGame,StandardBlockPoints,BonusBlockPoints,EffectBlockPoints,StandardBlockProb,BonusBlockProb,FreezerBlockProb,SpeedupBlockProb,FreezerEffectDuration,SpeedupEffectDuration,SpeedupFactor,EasyImpulseForce,MediumImpulseForce,HardImpulseForce
+10,10,10,5,10,10,1,2,5,70,20,5,5,2,2,2,8,13,18
